@@ -3,6 +3,6 @@
 
 (require 'geiser)
 
-(setq geiser-scheme-dir "/Users/ghoseb/.emacs.d/packs/programming/lib/geiser/scheme")
+(setq geiser-scheme-dir "/Users/swanandp/.emacs.d/packs/programming/lib/geiser/scheme")
 
 (provide 'geiser-load)
